@@ -32,9 +32,7 @@ const Footer = () => {
                 />
               </div>
               <span className="text-2xl font-bold text-white tracking-tight">Delhi
-                <span className="text-red-600">Ambulance 
-                  <span className="text-red-600">Service 
-                  </span>
+                <span className="text-red-600">Ambulance
                 </span>
               </span>
             </Link>
