@@ -36,9 +36,9 @@ const Header = () => {
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="flex items-center space-x-3">
             <img 
-              src="public/logo.png" 
-              alt="Delhi Ambulance Services Logo" 
-              className="h-11 w-auto"
+              src="/logo.png" 
+              alt="Ambulance Services Delhi " 
+              className="h-12 w-auto"
             />
           </Link>
 
