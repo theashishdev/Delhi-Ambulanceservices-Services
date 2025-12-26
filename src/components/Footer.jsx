@@ -26,15 +26,19 @@ const Footer = () => {
             <Link to="/" className="flex items-center space-x-3">
               <div className="bg-white p-2 rounded-lg">
                  <img 
-                  src="public\logo.png" 
-                  alt="Delhi Ambulance" 
+                  src="\logo.png" 
+                  alt="Delhi Ambulance service" 
                   className="h-12 w-auto"
                 />
               </div>
-              <span className="text-2xl font-bold text-white tracking-tight">Delhi<span className="text-red-600">Ambulance</span></span>
+              <span className="text-2xl font-bold text-white tracking-tight">Delhi
+                <span className="text-red-600">Ambulance <span className="text-red-600">Service 
+                </span>
+                </span>
+              </span>
             </Link>
             <p className="text-gray-400 leading-relaxed">
-              Dedicated to saving lives with 24/7 emergency medical transport services across Delhi NCR. Professional care when you need it most.
+              Dedicated to saving lives with 24/7 emergency medical transport Ambulance services across Delhi NCR. Professional care when you need it most.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="bg-gray-800 p-2 rounded-full hover:bg-red-700 hover:text-white transition-all duration-300" aria-label="Facebook">
