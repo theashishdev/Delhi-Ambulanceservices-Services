@@ -26,14 +26,15 @@ const Footer = () => {
             <Link to="/" className="flex items-center space-x-3">
               <div className="bg-white p-2 rounded-lg">
                  <img 
-                  src="\logo.png" 
+                  src="/logo.png" 
                   alt="Delhi Ambulance service" 
                   className="h-12 w-auto"
                 />
               </div>
               <span className="text-2xl font-bold text-white tracking-tight">Delhi
-                <span className="text-red-600">Ambulance <span className="text-red-600">Service 
-                </span>
+                <span className="text-red-600">Ambulance 
+                  <span className="text-red-600">Service 
+                  </span>
                 </span>
               </span>
             </Link>
