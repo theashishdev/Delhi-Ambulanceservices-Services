@@ -187,7 +187,7 @@ const CoveragePage = () => {
                 viewport={{ once: true }}
                 className="rounded-2xl overflow-hidden shadow-2xl"
               >
-                <img alt="Map showing Delhi Ambulance coverage areas across Delhi NCR" src="public/rapid1.png" />
+                <img alt="Map showing Delhi Ambulance coverage areas across Delhi NCR" src="./rapid1.png" />
               </motion.div>
 
               <motion.div
