@@ -158,12 +158,8 @@ const HomePage = () => {
                 </motion.div>
 
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-                  24/7 Emergency & Private Ambulance Service in Delhi
+                  24/7 Emergency & Private Ambulance Service in Delhi Low Cost Ambulance to AIIMS, Safdarjung, RML, LNJP, Moolchand & Dwarka
                 </h1>
-                
-                <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-                  Low Cost Ambulance to AIIMS, Safdarjung, RML, LNJP, Moolchand & Dwarka
-                </h2>
                 
                 <p className="text-lg sm:text-xl text-red-100 mb-8 leading-relaxed">
                   Looking for a reliable ambulance service? We provide rapid emergency ambulance and outstation ambulance service with certified medical staff. Whether you need local transport or a long-distance transfer, trust Delhi's best private ambulance service.
