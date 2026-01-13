@@ -158,7 +158,7 @@ const HomePage = () => {
                 </motion.div>
 
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-                  Ambulance Service in Delhi – 24/7 Private & Emergency Ambulance Low Cost Ambulance Service to AIIMS, Safdarjung, RML & Dwarka
+                  Ambulance Service in Delhi – 24/7 Private & Outstation Ambulance Low Cost Ambulance Service to AIIMS, Safdarjung, RML & Dwarka
                 </h1>
                 
                 <p className="text-lg sm:text-xl text-red-100 mb-8 leading-relaxed">
