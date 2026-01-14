@@ -239,11 +239,10 @@ const HomePage = () => {
                 Welcome To Delhi Ambulance Service Delhi Outside Ambulance Just Rs 12 Per km Delhi To UP , 
                 Bihar , Bangal , Jharkhand All Over India Ambulance Service Just 15 Minutes. In Delhi NCR / Noida / Gurgaon/ Ghaziabad / Faridabad.
               </p>
-              <p className=text-lg text-gray-500 max-w-3x1 mx-auto"> 
-              <strong> Our Services</strong>
+              <p className=text-lg text-gray-500 max-w-3x1 mx-auto">
               Dead Body Freezr Box Ambulance, Dead Body Ambulance, ICU Ventilator Ambulance, AC Ambulance, Oxigen Ambulance, Emergency Ambulance, 
               Outside Ambulance, Freezer Box (Dead body freezer Box), Hars Van, Morchari Ambulance, Just 15 Minutes In Delhi /NCR, 
-              All Type Ambulance Available 24 hours Service
+              All Type Ambulance Available 24 hours Service.
 
               </p>
             </motion.div>
