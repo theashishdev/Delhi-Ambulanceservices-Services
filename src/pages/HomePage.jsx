@@ -235,9 +235,11 @@ const HomePage = () => {
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
                 Welcome To Delhi Ambulance Service In Delhi NCR | Outside Ambulance At Just Rs. 12 Per KM
               </h2>
-              <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-4 ">
+              <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-3 ">
                 Welcome To Delhi Ambulance Service Delhi Outside Ambulance Just Rs 12 Per km Delhi To UP , 
                 Bihar , Bangal , Jharkhand All Over India Ambulance Service Just 15 Minutes. In Delhi NCR / Noida / Gurgaon/ Ghaziabad / Faridabad.
+                <br>                </br>
+                <b> Our Services </b>
               </p>
             </motion.div>
 
