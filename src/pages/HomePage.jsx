@@ -158,8 +158,11 @@ const HomePage = () => {
                 </motion.div>
 
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-                  Ambulance Service in Delhi – 24/7 Private & Outstation Ambulance Low Cost Ambulance Service to AIIMS, Safdarjung, RML & Dwarka
+                  Emergency Ambulance in Delhi – 24/7
                 </h1>
+                <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-4 leading-tight">
+                  ICU, Oxygen & Ventilator Support | 10 Min Dispatch
+                </h2>
                 
                 <p className="text-lg sm:text-xl text-red-100 mb-8 leading-relaxed">
                   24/7 ambulance service in Delhi with trained medical staff, oxygen support and fast response for emergency and outstation transport long-distance transfer, trust Delhi's best private ambulance service.
