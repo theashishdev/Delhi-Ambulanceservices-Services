@@ -165,7 +165,7 @@ const HomePage = () => {
                 </h2>
                 
                 <p className="text-lg sm:text-xl text-red-100 mb-8 leading-relaxed">
-                  24/7 ambulance service in Delhi with trained medical staff, oxygen support and fast response for emergency and outstation transport long-distance transfer, trust Delhi's best private ambulance service.
+                  24/7 Ambulance Service in Delhi with ICU, Oxygen & Trained EMT Staff. Immediate Response..
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4">
