@@ -158,14 +158,14 @@ const HomePage = () => {
                 </motion.div>
 
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-                  Emergency Ambulance in Delhi – 24/7
+                  Private ICU Ambulance Service in Delhi – 24/7
                 </h1>
                 <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-4 leading-tight">
-                  ICU, Oxygen & Ventilator Support | 10 Min Dispatch
+                  Emergency Ambulance Service in Delhi with ICU, Oxygen & Ventilator Support | 10 Minute Dispatch
                 </h2>
                 
                 <p className="text-lg sm:text-xl text-red-100 mb-8 leading-relaxed">
-                  24/7 Ambulance Service in Delhi with ICU, Oxygen & Trained EMT Staff. Immediate Response..
+                  Need Immediate Ambulance Service in Delhi? Call Now for Fast Emergency Response.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4">
