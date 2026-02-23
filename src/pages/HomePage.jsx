@@ -161,11 +161,11 @@ const HomePage = () => {
                   Private ICU Ambulance Service in Delhi – 24/7
                 </h1>
                 <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-4 leading-tight">
-                  Emergency Ambulance Service in Delhi with ICU, Oxygen & Ventilator Support | 10 Minute Dispatch
+                  ICU, Oxygen & Ventilator Support | 10 Minute Emergency Arrival
                 </h2>
                 
                 <p className="text-lg sm:text-xl text-red-100 mb-8 leading-relaxed">
-                  Need Immediate Ambulance Service in Delhi? Call Now for Fast Emergency Response.
+                  Critical Patient? Call Now for Immediate ICU Ambulance in Delhi.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4">
