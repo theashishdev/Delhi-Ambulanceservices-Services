@@ -161,7 +161,7 @@ const HomePage = () => {
                   Private Ambulance Service in Delhi – 24/7
                 </h1>
                 <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-4 leading-tight">
-                  Starting From ₹1500 (Local), Dwarka, Rohini, Karol Bagh, Lajpat Nagar, Noida, Gurgaon, Ghaziabad, Outstation ₹12 Per KM
+                  Starting From ₹1500 (Local), Outstation ₹12 Per KM<br></br> ✔ 10,000+ Patients Served | 24/7 Available | Fast 10 Min Dispatch
                 </h2>
                 
                 <p className="text-lg sm:text-xl text-red-100 mb-8 leading-relaxed">
