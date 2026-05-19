@@ -165,7 +165,7 @@ const HomePage = () => {
                 </h2>
                 
                 <p className="text-lg sm:text-xl text-red-100 mb-8 leading-relaxed">
-                  Delhi To Bihar • UP • Patna • • Lucknow • Sharanpur • Jamuna & Kashmir All India.
+                  Delhi To Bihar • UP • Patna • • Lucknow • All India.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4">
