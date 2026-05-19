@@ -191,7 +191,7 @@ const HomePage = () => {
                 className="rounded-2xl overflow-hidden shadow-2xl relative hidden lg:block"
               >
                 <div className="relative z-10">
-                  <img alt="Delhi Ambulance emergency medical transport service with modern ambulance" src="https://images.unsplash.com/photo-1696243144413-503bc482a608" />
+                  <img alt="Delhi Ambulance Service" title= "delhi ambulance service"src="https://images.unsplash.com/photo-1696243144413-503bc482a608" />
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-tr from-red-600/20 to-transparent rounded-2xl transform rotate-3" />
               </motion.div>
@@ -286,10 +286,10 @@ const HomePage = () => {
               >
                  <img
                 src="https://images.unsplash.com/photo-1696243144332-04b59785d06b"
-                alt="Emergency medical team providing critical care in ambulance"
+                alt="delhi ambulance service" title="delhi ambulance service"
                 className="w-full h-full object-cover"
               />
-                {/* <img alt="" 
+                {/* <img alt="delhi ambulance service" 
                 src="https://images.unsplash.com/photo-1696243144332-04b59785d06b" /> */}
               </motion.div>
 
@@ -439,7 +439,7 @@ const HomePage = () => {
             >
               <img
                 src="https://images.unsplash.com/photo-1696243144332-04b59785d06b"
-                alt="ICU ambulance with advanced medical equipment"
+                alt="delhi ambulance service" Title= "delhi ambulance service" 
                 className="w-full h-full object-cover"
               />
             </motion.div>
