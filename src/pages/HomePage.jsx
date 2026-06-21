@@ -158,7 +158,7 @@ const HomePage = () => {
                 </motion.div>
 
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-                  24/7 OUTSTATION AMBULANCE DELHI AMBULANCE SERVICE
+                  24/7 Ambulance Service in Delhi Local & Outstation Ambulance Available
                 </h1>
                 <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-4 leading-tight">
                   Starting From ₹1500 (Local), Outstation ₹12 Per KM<br></br> ✔ 10,000+ Patients Served | 24/7 Available | Fast 10 Min Dispatch
